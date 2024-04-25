@@ -81,14 +81,23 @@ Native HTML tags have been used as well as WAI-ARIA roles and aria labels for ac
 
 An 94 overall scored achieved in Lighthouse tool
 
+![Screenshot 2024-04-24 at 22 12 05](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/cb361f10-b1ee-4584-9889-2af49f531a9a)
+
 ## Responsiveness
 
 Responsive design working in mobile, tablet and desktop
 
 ### Mobile
 
+![Screenshot 2024-04-24 at 22 26 37](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/02531bcc-6668-4836-bec4-31dfae82dc47)
 
 ### Tablet
 
+![Screenshot 2024-04-24 at 22 24 57](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/314b5bb9-ac14-484d-b780-baf4e3c5643e)
+
+![Screenshot 2024-04-24 at 22 24 42](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/97e20785-64ff-463d-a5a0-71b534542efb)
+
 ### Desktop
+
+![Screenshot 2024-04-24 at 22 24 21](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/b2930cee-4424-49d0-94a9-170bfb19e1aa)
 
