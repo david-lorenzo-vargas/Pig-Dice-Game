@@ -56,7 +56,7 @@ There is a minimum of two players required but feel free to bring more friends b
 
 ![Screenshot 2024-04-25 at 17 35 07](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/6dc940c9-c6a3-47c9-942d-45fc55c22cf4)
 
-### Two ones (sname eyes) appeared you lost all your points and your turn
+### Two ones (snake eyes) appeared you lost all your points and your turn
 
 ![Screenshot 2024-04-25 at 17 36 15](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/9c91b831-42a3-4ccc-91d0-50bf79473354)
 
