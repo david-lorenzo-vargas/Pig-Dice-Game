@@ -73,6 +73,8 @@ Alias added for improting utilities, types, icons and components.
 
 Jest and React Testing Library have been used for testing. Testing has been added to some components but, as further implementation, it would be necessary to add more unit and integration testing for other functionalities and components.
 
+Main functionality of the game has been tested by adding unit test to the utilities.
+
 For running tests: `npm run test`
 
 ## Accessibility
