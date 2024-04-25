@@ -40,6 +40,30 @@ Rules:
 
 There is a minimum of two players required but feel free to bring more friends by adding more players to the game
 
+### Starting the game
+
+![Screenshot 2024-04-24 at 22 24 21](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/025d3cea-7a19-4d62-b691-90657b0c9279)
+
+### Adding more players
+
+![Screenshot 2024-04-25 at 17 34 08](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/c73b4383-209e-4dd1-9eae-ed0a2b6923b1)
+
+### Rolling the dice
+
+![Screenshot 2024-04-25 at 17 34 53](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/b296601f-e3b0-4ecd-8ad6-3e5e572c82f5)
+
+### A one appeared you lost you tourn and the point accummulated in your turn
+
+![Screenshot 2024-04-25 at 17 35 07](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/6dc940c9-c6a3-47c9-942d-45fc55c22cf4)
+
+### Two ones (sname eyes) appeared you lost all your points and your turn
+
+![Screenshot 2024-04-25 at 17 36 15](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/9c91b831-42a3-4ccc-91d0-50bf79473354)
+
+### We have a winner
+
+![Screenshot 2024-04-25 at 17 36 52](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/966c8158-22ae-43db-be4a-6664ba672660)
+
 ## Stack
 
 <ul>
