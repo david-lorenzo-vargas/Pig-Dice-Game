@@ -5,9 +5,9 @@ import ReactConfetti from "react-confetti";
 
 import Dice from "@/app/Components/Atoms/Dice";
 import Button from "@/app/Components/Atoms/Button";
-import StartingModal from "./Modals/StartingModal";
+import StartingModal from "@/app/Components/Molecules/Modals/StartingModal";
+import WinnerModal from "@/app/Components/Molecules/Modals/WinnerModal";
 import User from "@/app/Components/Molecules/User";
-import WinnerModal from "./Modals/WinnerModal";
 
 import { randomNumber } from "@util/randomNumber/randomNumber";
 import { getUserScore } from "@util/getUserScore/getUserScore";
