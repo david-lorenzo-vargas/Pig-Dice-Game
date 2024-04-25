@@ -34,7 +34,7 @@ Roll the dice and score points.
 
 Rules:
 - If one of the dice scores 1 you lose all the points accumulated in your turn and the turn passes to the next player
-- If you socre two 1 (snake eyes) you lose all the points accummulated and the turn passes to the next player
+- If you score two 1 (snake eyes) you lose all the points accummulated and the turn passes to the next player
 - Pass the turn to secure all the points accummulated in your turn
 - The first player to score 100 points wins
 
@@ -52,7 +52,7 @@ There is a minimum of two players required but feel free to bring more friends b
 
 ![Screenshot 2024-04-25 at 17 34 53](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/b296601f-e3b0-4ecd-8ad6-3e5e572c82f5)
 
-### A one appeared you lost you turn and the point accummulated during this turn
+### A one appeared you lost you turn and the points accummulated during this turn
 
 ![Screenshot 2024-04-25 at 17 35 07](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/6dc940c9-c6a3-47c9-942d-45fc55c22cf4)
 
@@ -97,7 +97,7 @@ Alias added for improting utilities, types, icons and components.
 
 Jest and React Testing Library have been used for testing. Testing has been added to some components but, as further implementation, it would be necessary to add more unit and integration testing for other functionalities and components.
 
-Main functionality of the game has been tested by adding unit test to the utilities.
+Main functionality of the game has been tested by adding unit tests to the utilities.
 
 For running tests: `npm run test`
 
