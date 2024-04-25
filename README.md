@@ -52,7 +52,7 @@ There is a minimum of two players required but feel free to bring more friends b
 
 ![Screenshot 2024-04-25 at 17 34 53](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/b296601f-e3b0-4ecd-8ad6-3e5e572c82f5)
 
-### A one appeared you lost you tourn and the point accummulated in your turn
+### A one appeared you lost you turn and the point accummulated during this turn
 
 ![Screenshot 2024-04-25 at 17 35 07](https://github.com/david-lorenzo-vargas/Pig-Dice-Game/assets/72414745/6dc940c9-c6a3-47c9-942d-45fc55c22cf4)
 
